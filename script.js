@@ -1,4 +1,5 @@
 //your JS code here. If required.
+
 window.onload = function() {
     // Check if there's saved login information in local storage
     const savedUsername = localStorage.getItem('username');
